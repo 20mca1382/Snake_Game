@@ -14,5 +14,4 @@
 #### In this project, we primarily used JavaScript and CSS. 
 
 ## WHAT features, technical things you had implemented?
-#### In this project, We have used JavaScript on large scale, this project is about snake game, which can move right, left, up and down. 
-it has the collision feature with wall and with itself. This game will show the score and highest score made so far also.
+#### In this project, We have used JavaScript on large scale, this project is about snake game, which can move right, left, up and down. it has the collision feature with wall and with itself. This game will show the score and highest score made so far also.
